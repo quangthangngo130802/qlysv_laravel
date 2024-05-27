@@ -1,0 +1,310 @@
+p {
+    margin: 0;
+    padding-right: 10%;
+}
+
+.bg-header {
+    background-color: #56a4fe;
+    /* width: 100%; */
+    min-height: 88px;
+    position: relative;
+}
+
+#bg-text {
+    POSITION: absolute;
+    FONT-FAMILY: -webkit-body;
+    COLOR: white;
+    FONT-SIZE: 18px;
+    TOP: 32px;
+    FONT-WEIGHT: bold;
+    LEFT: 8px;
+}
+
+#box_user {
+    position: absolute;
+    width: 406px;
+    min-height: 28px;
+    right: 0;
+    font-size: 12px;
+    border-bottom-left-radius: 75px;
+    background-color: White;
+}
+
+#PageHeader1_Panel1 {
+    width: 400px;
+    TEXT-ALIGN: right;
+    MARGIN-TOP: 2px;
+}
+
+#PageHeader1_lblUserFullName {
+    color: Blue;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#PageHeader1_lblUserRole {
+    color: Blue;
+    font-size: 10px;
+}
+
+#navbar {
+    font-size: 13px;
+    color: white;
+    padding: 5px 10px;
+    background-color: #56a4fe;
+    height: 30px;
+    top: 89px;
+    right: 0px;
+    position: absolute;
+    font-weight: bold;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+}
+
+#navbar a {
+    color: white;
+    text-decoration: none;
+    border: 0 1px solid white;
+}
+
+.home {
+    min-height: 330px;
+
+}
+
+.slidebar {
+    /* background-color: #f4f4f4; Màu nền */
+    /* padding: 0 20px;  */
+}
+.slidebar ul {
+    list-style-type: none; /* Loại bỏ dấu đầu dòng mặc định */
+    padding: 0;
+}
+.slidebar li {
+    margin-bottom: 10px; /* Thêm một số khoảng cách giữa các mục danh sách */
+    padding: 0 40px;
+}
+
+.slidebar a {
+    text-decoration: none; /* Loại bỏ gạch chân */
+    color: #333; /* Màu của liên kết */
+    font-weight: 600;
+}
+.slidebar li:hover {
+    background-color: #3c8dbc; /* Thay đổi màu khi di chuột qua */
+}
+p.header {
+    color: #848484;
+    background: #f9fafc;
+    padding: 5px 20px;
+    font-size: 14px;
+
+}
+.box_center h4 {
+    background-color: #56a4fe;
+    height: 31px;
+    line-height: 31px;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 14px;
+    text-indent: 10px;
+    font-weight: bold;
+    font-family: Arial;
+    color: white;
+    border-radius: 6px;
+
+}
+.box_center a{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    text-transform: none;
+
+}
+.box_center_a{
+    position: absolute;
+    right: 10px;
+}
+.post{
+    margin: 15px;
+    padding-bottom: 10px;
+}
+.post-title{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+.post-content a{
+    text-decoration: none;
+    color: #0066cc;
+    font-size: 14px;
+}
+.post-content a:hover{
+    color: #490dff;
+}
+.footer_1{
+    float: left;
+    margin-top: 60px;
+    width: 100%;
+    background-color: #56a4fe;
+    width: 100%;
+    min-height: 65px;
+    position: relative;
+    padding: 10px 0 0 8px;
+    color: White;
+    font-size: 13px;
+    left: 0;
+}
+.cssPageTitle {
+    font-weight: bold;
+    font-size: 10pt;
+    text-transform: uppercase;
+    font-family: Tahoma;
+    text-align: center;
+}
+.labelHeader{
+    font-weight: bold;
+    color: dimgray;
+}
+.labelContent {
+    font-weight: bold;
+}
+.tableblue {
+    border-right: #D9ECFF 1px solid;
+    border-top: #D9ECFF 1px solid;
+    border-left: #D9ECFF 1px solid;
+    border-bottom: #D9ECFF 1px solid;
+    background-color: #F0F9FF;
+}
+.tdParameter{
+    font-size: 11px;
+}
+.labelBottom{
+    color: red;
+    font-weight: bold;
+}
+table {
+    font-weight: normal;
+    font-size: 11px;
+    margin: 0px;
+    color: black;
+    font-family: Tahoma, Arial, Verdana, Times New Roman;
+    text-decoration: none;
+    margin-top: 10px;
+}
+tr {
+    font-weight: normal;
+    font-size: 11px;
+    margin: 0px;
+    color: black;
+    font-family: Tahoma, Arial, Verdana, Times New Roman;
+    text-decoration: none;
+}
+.listtitle{
+    font-weight: bold;
+    font-size: 13pt;
+    color: #4b4b46;
+    font-family: 'Times New Roman';
+}
+.tableBorder {
+    border-right: gainsboro 0px solid;
+    border-top: gainsboro 0px solid;
+    border-left: gainsboro 0px solid;
+    border-bottom: gainsboro 0px solid;
+}
+.cssListHeader {
+    background-color: #2467ae;
+    font-weight: bold;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: White;
+    border-width: 1px;
+}
+a{
+    color: #0066cc;
+    text-decoration: none;
+}
+.cssRangeItem3 {
+    background-color: #8cae43;
+}
+.cssRangeItem3 td {
+    border-width: 1px;
+}
+.cssRangeItem4 td{
+    border-width: 1px;
+}
+.cssListItemtd {
+    border-width: 1px;
+
+}
+.form-control-lable {
+    display: block;
+    width: 100%;
+    height: auto;
+    padding: 3px;
+    font-size: 12px;
+    color: green;
+    border: none;
+}
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+.form-control-lable-value {
+    display: block;
+    width: 100%;
+    height: auto;
+    padding: 3px;
+    font-size: 14px;
+    color: Black;
+    border: none;
+    font-weight: bold;
+}
+.cssListAlternativeItem {
+    background-color: #d9e8f7;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.cssListAlternativeItem td{
+    border-width: 1px;
+}
+.cssListItem {
+    background-color: White;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.cssListItem td{
+    border-width: 1px;
+}
+#boxlogin-t {
+    background-image: url(../images/login1-t.gif);
+    background-repeat: no-repeat;
+    height: 88px;
+    width: 487px;
+}
+#boxlogin-b {
+    background-image: url(../images/login-b.gif);
+    background-repeat: no-repeat;
+    height: 21px;
+    width: 487px;
+}
+.tableborderLogin {
+    border-left: solid 3px #fea700;
+    border-right: solid 3px #fea700;
+    text-align: center;
+}
+textarea {
+    max-width: 100%;
+     width: auto;
+}
+
+.colortd td{
+    background-color: #d9e8f7;
+    padding-left: 5px;
+    padding-right: 5px;
+}
